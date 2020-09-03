@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://Oslin123:oslin123@king-james.a7uqg.mongodb.net/King-james?retryWrites=true&w=majority",
+	"jwtSecret": "secret"
+}
